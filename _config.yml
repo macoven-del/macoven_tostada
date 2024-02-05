@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Tostada_test
 description: Bookmark this to keep an eye on my project updates!
-permalink: /:categories/:year/:month/:day/:title:output_ext
+
