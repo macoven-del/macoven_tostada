@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: template
+layout: tomjoht/documentation-theme-jekyll
 filename: index.md
 ---
 Lorem ipsum 0
