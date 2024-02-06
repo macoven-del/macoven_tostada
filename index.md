@@ -1,5 +1,5 @@
 ---
 title: Blog
 layout: template
-permalink:/blog/
+filename: index.md
 ---
