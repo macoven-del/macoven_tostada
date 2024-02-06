@@ -12,6 +12,9 @@ title: Home
   </head>
   <body>
     <nav>
+      {% for page in site.pages %}
+    <a href={{ page.filename }}>{{ page.title }}</a>
+{% endfor %}
       <a href="/">Home</a>
       <a href="/blog/">Blog</a>
     </nav>
