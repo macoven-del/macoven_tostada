@@ -1,5 +1,5 @@
 ---
 title: Blog
 layout: template
-filename: blog.md
+filename: index.md
 ---
