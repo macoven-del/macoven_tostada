@@ -11,11 +11,11 @@ title: Home
     <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>
-    <nav>
+    <div class = topnav>
       {% for page in site.pages %}
     <a href={{ page.filename }}>{{ page.title }}</a>
 {% endfor %}
-    </nav>
+    </div>
     <h1>{{ page.title }}</h1>
     <section>
       {{ content }}
