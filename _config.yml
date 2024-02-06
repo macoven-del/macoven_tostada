@@ -3,14 +3,3 @@ plugins:
 - jekyll-remote-theme
 title: Tostada_test
 description: Bookmark this to keep an eye on my project updates!
-
-- title: About
-  url: /about.html
-- title: Team
-  url: /team.html
-- title: Contact
-  url: /contact.html
-- title: Store
-  url: /store.html
-- title: Support
-  url: /support.html
