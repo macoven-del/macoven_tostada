@@ -1,0 +1,5 @@
+---
+title: Blog2
+layout: template
+filename: index.md
+---
